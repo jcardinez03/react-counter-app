@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+@theme {
+    /* charcoal */
+    --color-background: #36454F; 
+    --color-foreground: #FAF9F6;
+
+    --color-crimson: #DC143C;
+     --color-crimson-foreground: #FAF9F6;
+    
+    --color-success: #097969;
+    --color-success-foreground: #FAF9F6;
+}
+
+@layer base {
+    button {
+        cursor: pointer;
+    }
+}
