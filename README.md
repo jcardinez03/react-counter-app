@@ -1,18 +1,14 @@
-# React + Vite
+Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple counter application built with React to practice the fundamentals of state management, component-based development, and user interaction.
 
-Currently, two official plugins are available:
+This project allows users to increase, decrease, and reset a counter value through interactive buttons. While the concept is simple, it helped me build a strong foundation in React by understanding how state works, how events trigger updates, and how the UI automatically responds to changes in data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+What I Learned
+Managing dynamic values using React state
+Handling user events such as button clicks
+Understanding how state updates trigger component re-renders
+Creating reusable and organized React components
+Connecting application logic with the user interface
 
-## React Compiler
-
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is part of my journey in learning React and building small applications to strengthen my frontend development skills.
