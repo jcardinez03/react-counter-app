@@ -12,3 +12,5 @@ Creating reusable and organized React components
 Connecting application logic with the user interface
 
 This project is part of my journey in learning React and building small applications to strengthen my frontend development skills.
+
+STATUS: ✅ Completed
